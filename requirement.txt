@@ -1,0 +1,14 @@
+numpy==1.23
+opencv-python==3.4.14.53 
+gym[atari]==0.20.0
+gym==0.20.0 
+gym_unity==0.28 
+mlagents_envs==0.28
+matplotlib==3.2.2
+grpcio==1.37.0
+parl==2.0.2
+pygame 
+scipy 
+box2d
+lmdb
+procgen
